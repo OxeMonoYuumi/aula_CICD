@@ -1,4 +1,4 @@
-name: Formatador Black
+name: Formatador Flake8
 
 on: [push,pull_request]
 
